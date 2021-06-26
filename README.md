@@ -76,3 +76,5 @@ DEBUG=* npx eleventy
   * `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
   * `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
 * `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/984e4aec-7b7a-4d56-9c1b-35b139eebcc1/deploy-status)](https://app.netlify.com/sites/nervous-newton-24b0c1/deploys)
